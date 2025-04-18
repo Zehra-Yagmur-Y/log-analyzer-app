@@ -1,0 +1,30 @@
+[INFO] 2025-03-15 01:00:00 - Sistem başlatıldı.
+[DEBUG] 2025-03-15 01:01:10 - Konfigürasyon dosyaları yüklendi.
+[ERROR] 2025-03-15 01:02:30 - Veritabanı bağlantısı başarısız!
+[INFO] 2025-03-15 01:03:50 - Kullanıcı giriş yaptı: admin
+[DEBUG] 2025-03-15 01:05:12 - Kullanıcı yetkileri yüklendi.
+[ERROR] 2025-03-15 01:07:40 - Sunucu yanıt vermiyor!
+[INFO] 2025-03-15 01:10:05 - Otomatik yedekleme işlemi başlatıldı.
+[DEBUG] 2025-03-15 01:12:20 - Yeni ürün eklendi: Laptop
+[ERROR] 2025-03-15 01:15:30 - API çağrısı başarısız! Hata kodu: 500
+[INFO] 2025-03-15 01:18:45 - Kullanıcı çıkış yaptı.
+[DEBUG] 2025-03-15 01:20:50 - Cache temizlendi.
+[ERROR] 2025-03-15 01:23:15 - Bellek yetersiz uyarısı alındı.
+[INFO] 2025-03-15 01:25:40 - Yeni kayıt eklendi: Sipariş No #1324
+[DEBUG] 2025-03-15 01:28:55 - Log dosyası dökümü oluşturuldu.
+[ERROR] 2025-03-15 01:30:20 - Dosya yükleme başarısız oldu.
+[INFO] 2025-03-15 01:32:30 - Kullanıcı "zehra" profilini güncelledi.
+[DEBUG] 2025-03-15 01:34:55 - Servis bağlantısı doğrulandı.
+[ERROR] 2025-03-15 01:37:10 - Sistem aşırı yüklenme nedeniyle durdu!
+[INFO] 2025-03-15 01:39:45 - Kullanıcı "yagmur" sisteme giriş yaptı.
+[DEBUG] 2025-03-15 01:41:30 - Arama motoru indeksleme tamamlandı.
+[ERROR] 2025-03-15 01:44:15 - SSL sertifikası süresi doldu!
+[INFO] 2025-03-15 01:46:50 - Günlük rapor e-postası gönderildi.
+[DEBUG] 2025-03-15 01:49:20 - Yeni müşteri kaydı oluşturuldu.
+[ERROR] 2025-03-15 01:51:30 - Yetkisiz erişim denemesi algılandı!
+[INFO] 2025-03-15 01:53:40 - Veritabanı optimizasyonu tamamlandı.
+[DEBUG] 2025-03-15 01:55:50 - Uygulama önbelleği temizlendi.
+[ERROR] 2025-03-15 01:58:10 - Sunucu başlatılamadı, bağımlılıklar eksik!
+[INFO] 2025-03-15 02:00:30 - Günlük bakım modu etkinleştirildi.
+[DEBUG] 2025-03-15 02:02:40 - Oturum açma süresi uzatıldı.
+[ERROR] 2025-03-15 02:05:00 - Kritik hata: Disk doldu, yazma işlemi yapılamıyor!
